@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi 👋
 
-- 😄 Pronouns: He/Him/His
-- 💻 Under-qualified but willing to learn
+- Pronouns: He/Him/His
+- Software Engineer 💻
+- TC: 🥜
 
