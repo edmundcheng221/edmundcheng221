@@ -1,4 +1,4 @@
-## Hi 👋
+## About me
 
 My name is Edmund.
 
